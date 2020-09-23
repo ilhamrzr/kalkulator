@@ -15,4 +15,4 @@ python3 kalkulator.py
 
 
 
-Note : Im try this using windows
+Note : I tried this using windows
